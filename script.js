@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-alert("Hello World");
-=======
-alert("Hello World");
->>>>>>> 32cad206aecd8f6ce20776a79f3c0edf824e41a7
+var a = 5;
+var b = 10;
+var c = 20; 
+var x = true;
+var z = false;
+var name = prompt("What is your name?");
+var message = "Hello, ";
+alert(message + name);
